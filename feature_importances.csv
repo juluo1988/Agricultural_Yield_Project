@@ -1,0 +1,42 @@
+Variable,Importance
+Seeded area (acres),0.3613733367868254
+Seeded area (hectares),0.3556405400932988
+Total farm value (dollars),0.10676792018849297
+Average yield (kilograms per hectare),0.0819664210560532
+value_per_tonne,0.059389250667397704
+Type of crop_Corn for silage,0.013863855746939713
+Average farm price (dollars per tonne),0.00899136317089888
+value_per_hectare,0.004690889674209921
+Type of crop_Tame hay,0.0030745372397989468
+GEO_CA,0.001375509830422932
+REF_DATE,0.0007498161141811827
+GEO_PP,0.0005635201562169235
+GEO_QU,0.0005089123714383957
+Type of crop_Sugar beets,0.00030593933909866926
+GEO_AB,0.00017737199864351254
+GEO_MA,0.00017202021696963155
+GEO_BC,0.00011326821414273493
+Type of crop_Corn for grain,4.8637946114473904e-05
+GEO_ON,4.285335010351704e-05
+Type of crop_Mixed grains,3.3256853251231044e-05
+"Type of crop_Wheat, all",2.8159345876725263e-05
+"Type of crop_Rye, all",2.5974176731536177e-05
+Type of crop_Oats,2.379262504566399e-05
+GEO_SK,2.147763394603139e-05
+GEO_NB,1.775068173358573e-05
+GEO_MP,1.2219965108109631e-05
+GEO_PEI,1.1963144588014566e-05
+GEO_NS,4.247395293788593e-06
+Type of crop_Flaxseed,2.4165236231916763e-06
+Type of crop_Soybeans,1.167382491924515e-06
+Type of crop_Canola (rapeseed),8.304952206260299e-07
+"Type of crop_Rye, spring",2.669164556001512e-07
+Type of crop_Buckwheat,1.709916400430354e-07
+"Type of crop_Peas, dry",1.0090501542000643e-07
+Type of crop_Mustard seed,4.7522146218314934e-08
+"Type of crop_Wheat, durum",4.697401531641338e-08
+Type of crop_Sunflower seed,3.868094273323265e-08
+GEO_NL,3.702976279626246e-08
+"Type of crop_Beans, all dry (white and coloured)",2.7870802599250755e-08
+Type of crop_Lentils,2.5578312353873434e-08
+"Type of crop_Wheat, spring",1.714674900551326e-08
